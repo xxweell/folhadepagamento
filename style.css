@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+.content {
+  width: 600px;
+  height: 100px;
+  border: 1px solid white;
+  margin: 200px auto;
+  padding: 40px;
+  color: aliceblue;
+  background-color: rgb(46, 46, 46);
+}
+
+body {
+  background-color: rgb(32, 32, 32);
+}
+
+p {
+  margin-left: 100px;
+}
+
+.content h1 {
+  margin-bottom: 15px;
+}

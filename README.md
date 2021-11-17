@@ -1,2 +1,2 @@
 # folhadepagamento
-Calculo de progressão e promoção da folha de pagamento HRJP
+Cálculo - Desconto Previdência da folha de pagamento HRJP

@@ -1,2 +1,2 @@
 # folhadepagamento
-Cálculo - Desconto Previdência da folha de pagamento HRJP
+Cálculo - Desconto INSS da folha de pagamento HRJP

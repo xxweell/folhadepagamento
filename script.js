@@ -33,7 +33,8 @@ function calculateDiscount(inputValue) {
   if (range1) {
     let result1 = upperLimiValue * percentage1
     // document.querySelector('strong').innerHTML = result1.toFixed(2)
-    alert('Valor do desconto R$ ' + result1.toFixed(2))
+    //alert('Valor do desconto R$ ' + result1.toFixed(2))
+    Swal.fire('Valor do desconto R$ ' + result1.toFixed(2))
   } else if (range2) {
     let result2 = upperLimiValue * percentage2 - deduction2
     // document.querySelector('strong').innerText = result2.toFixed(2)
